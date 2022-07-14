@@ -1,4 +1,10 @@
+
 # 2022GlobalBootcamp
+
+## Members 
+- Tim
+
+
 Lecture material for Global Summer Bootcamp
 
 ## Installation
@@ -67,4 +73,7 @@ Aug 23 | <ul>**CV Technical Class [2] (Vincent)**</ul><li>VisionTransformers</li
 Aug 25 | **Presentation (Paul)**|
 Aug 30 | **Rehearsal** |
 Sep (TBD) | **Demo Day** |
+
+
+
 
